@@ -1,1 +1,1 @@
-# ECE341---Distance-Sensor
+# ECE341 - Distance-Sensor Project
